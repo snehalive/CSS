@@ -1,0 +1,28 @@
+body{
+    background:green;
+    font-size:125%;
+} 
+Header{
+    background: yellow;
+    text-align: center;
+}
+nav{
+    font-variant: small-caps;
+    font-family: Arial, "Times New Roman" , serif;
+    font-size: 150%;
+
+}
+h2{
+    color:rgb(6, 10, 54);
+    background-color:#00b7ea ;
+}
+summary{
+    font-style:normal;
+}
+details{
+    font-style: italic;
+
+}
+footer{
+    background:#666666;
+} 
