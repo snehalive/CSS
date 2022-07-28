@@ -1,0 +1,23 @@
+body {
+  background: #b93160;
+}
+h1 {
+  background: #513252;
+  font-size: larger;
+  text-align: center;
+  color: #eed180;
+}
+h2 {
+  background: #2b7a0b;
+  font-size: medium;
+  color: #eae509;
+}
+p {
+  font-style: italic;
+  background-color: indigo;
+  color: #c8b6e2;
+}
+ul {
+  background-color: yellowgreen;
+  color: #110c18;
+}
