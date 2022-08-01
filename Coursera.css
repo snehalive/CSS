@@ -1,10 +1,12 @@
 body{
     background:green;
     font-size:125%;
+    margin: 3%;
 } 
 Header{
     background: yellow;
     text-align: center;
+    padding: 15px;
 }
 nav{
     font-variant: small-caps;
@@ -25,4 +27,14 @@ details{
 }
 footer{
     background:#666666;
+    clear: both;
 } 
+section{
+    width: 30%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+}
+img{
+    width: 75px;
+}
