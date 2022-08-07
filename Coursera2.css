@@ -1,0 +1,51 @@
+body{
+    background: rgb(2, 2, 2); 
+    font-size:125%;
+    color: white;
+} 
+Header{
+    
+    text-align: center;
+}
+nav{
+    font-variant: small-caps;
+    font-family: Arial, "Times New Roman" , serif;
+    font-size: 150%;
+    
+
+}
+h2{
+    color:rgb(6, 10, 54);
+    background-color:#00b7ea ;
+}
+summary{
+    font-style:normal;
+}
+details{
+    font-style: italic;
+
+}
+footer{
+    background:#666666;
+    clear: both;
+} 
+header, footer {
+    background: #666666 ;
+    background: -moz-linear-gradient(top,#666666 );
+    background: -webkit-linear-gradient(#666666 0);
+    background: -o-linear-gradient(#666666 0%, #00b7ea);
+    background: linear-gradient(#666666 0%,#00b7);
+}
+nav a{
+    color: pink;
+    width: 22%;
+    display: inline-block;
+    background-color: cadetblue;
+    
+}
+.half{
+  width:45%;
+  margin-right: 2%;
+  display: inline-block;
+  float: left;
+}
